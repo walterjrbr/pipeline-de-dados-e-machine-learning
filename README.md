@@ -3,7 +3,9 @@
 ### Pipeline de Dados
 
 Coleta de dados
+
 Salvar os dados num repo
+
 Agrupar os dados em tabelas
 Modelagem dos dados
 Pré-processamento dos dados
