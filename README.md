@@ -14,7 +14,7 @@ Pré-processamento dos dados
 
 Treinamento dos algoritmos
 
-Tunnig inicial e fino
+Tuning inicial e fino
 
 Deploy em dev,homologação e prod
 
